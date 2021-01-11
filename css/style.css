@@ -172,7 +172,7 @@ header nav .nav-btn .fa-user {
 header nav .burger {
   cursor: pointer;
   width: 50px;
-  border: 1px solid #ff0077;
+  border: 1px solid #fff;
   padding: 8px;
   border-radius: 5px;
   display: none;
@@ -181,7 +181,7 @@ header nav .burger {
 header nav .line1,
 header nav .line2,
 header nav .line3 {
-  background-color: #ff0077;
+  background-color: #fff;
   width: 30px;
   height: 2px;
   margin-bottom: 6px;
